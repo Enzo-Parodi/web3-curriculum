@@ -4,20 +4,20 @@
     "previousHash": null
   },
   {
-    "hash": "0.45062045106488546",
+    "hash": "0.016371938422095722",
     "previousHash": "0"
   },
   {
-    "hash": "0.16111842235772156",
-    "previousHash": "0.45062045106488546"
+    "hash": "0.8387452319842286",
+    "previousHash": "0.016371938422095722"
   },
   {
-    "hash": "0.8158006630142653",
-    "previousHash": "0.16111842235772156"
+    "hash": "0.7077406613634529",
+    "previousHash": "0.8387452319842286"
   },
   {
-    "hash": "0.8955003586769703",
-    "previousHash": "0.8158006630142653",
+    "hash": "0.8249131429251368",
+    "previousHash": "0.7077406613634529",
     "data": {
       "fromAddress": "Me",
       "toAddress": "You",
@@ -25,8 +25,8 @@
     }
   },
   {
-    "hash": "0.9583680743350331",
-    "previousHash": "0.8955003586769703",
+    "hash": "0.7734665501171205",
+    "previousHash": "0.8249131429251368",
     "data": {
       "fromAddress": "Me",
       "toAddress": "You",
@@ -34,8 +34,8 @@
     }
   },
   {
-    "hash": "0.939029301911428",
-    "previousHash": "0.9583680743350331",
+    "hash": "0.40112025328856893",
+    "previousHash": "0.7734665501171205",
     "data": {
       "fromAddress": "Me",
       "toAddress": "You",
@@ -43,8 +43,8 @@
     }
   },
   {
-    "hash": "0.7495656727576048",
-    "previousHash": "0.939029301911428",
+    "hash": "0.8908530346801524",
+    "previousHash": "0.40112025328856893",
     "transactions": [
       {
         "fromAddress": "You",
@@ -64,8 +64,8 @@
     ]
   },
   {
-    "hash": "0.13366310229995104",
-    "previousHash": "0.7495656727576048",
+    "hash": "0.3311817018276164",
+    "previousHash": "0.8908530346801524",
     "transactions": [
       {
         "fromAddress": "Me",
@@ -81,17 +81,6 @@
         "fromAddress": "Me",
         "toAddress": "You",
         "amount": 6
-      }
-    ]
-  },
-  {
-    "hash": "0.837120646359844",
-    "previousHash": "0.13366310229995104",
-    "transactions": [
-      {
-        "fromAddress": "You",
-        "toAddress": "Me",
-        "amount": 100
       }
     ]
   }

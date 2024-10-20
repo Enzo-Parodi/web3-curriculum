@@ -6,9 +6,11 @@
     "isIntegrated": false,
     "description": "In this course, you will learn how to build a blockchain from scratch using JavaScript.",
     "isPublic": true,
-    "currentLesson": 1,
+    "currentLesson": 103,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 103,
+    "completedDate": 1729433860867
   },
   {
     "id": 1,
@@ -17,9 +19,10 @@
     "isIntegrated": false,
     "description": "In this course, you will learn how to use the SHA-256 hashing algorithm make your blockchain more secure.",
     "isPublic": true,
-    "currentLesson": 1,
+    "currentLesson": 6,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 133
   },
   {
     "id": 2,
@@ -30,7 +33,8 @@
     "isPublic": true,
     "currentLesson": 1,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 113
   },
   {
     "id": 3,

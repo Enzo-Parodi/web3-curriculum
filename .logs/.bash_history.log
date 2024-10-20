@@ -1,1 +1,31 @@
 
+cd learn-digital-ledgers-by-building-a-blockchain/
+node init-blockchain
+node init-blockchain.js
+node add-block.js
+node validate-chain.js
+node add-block.js Me You 10
+node add-block.js Me You 20
+node add-block.js Me You 30
+node validate-chain.js
+node add-transaction You Me 5
+node add-transaction.js You Me 5
+node add-transaction.js You Me 15
+node add-transaction.js You Me 25
+node add-transaction.js You Me 35
+node add-blocks.js
+node add-block.js
+node add-transaction.js Me You 2
+node add-transaction.js Me You 4
+node add-transaction.js Me You 6
+node add-block.js
+node validate-chain.js
+node add-transaction.js Me Someone 6
+node add-transaction.js Me Someone 2
+node add-transaction.js Me You 2
+docker run -v /dev/freecodecamp-blockchain-progress1/:/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain -it 
+cd ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm
+node add-transaction.js Me You 100
+node add-transaction.js You Me 100
+node add-block.js
+node validate-chain.js

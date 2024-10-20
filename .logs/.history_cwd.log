@@ -1,0 +1,42 @@
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 1 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 2 node init-blockchain
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 3 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 3 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 6 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 6 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js Me You 20
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 8 node add-block.js Me You 30
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 10 node add-transaction You Me 5
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 11 node add-transaction.js You Me 5
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 12 node add-transaction.js You Me 15
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 13 node add-transaction.js You Me 25
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 14 node add-transaction.js You Me 35
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 15 node add-blocks.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 16 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 17 node add-transaction.js Me You 2
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 18 node add-transaction.js Me You 4
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 19 node add-transaction.js Me You 6
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 20 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 21 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 22 node add-transaction.js Me Someone 6
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 23 node add-transaction.js Me Someone 2
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 24 node add-transaction.js Me You 2
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$ 1 docker run -v /dev/freecodecamp-blockchain-progress1/:/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain -it
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 25 cd ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 26 node add-transaction.js Me You 100
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 27 node add-transaction.js You Me 100
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 28 node add-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 29 node validate-chain.js

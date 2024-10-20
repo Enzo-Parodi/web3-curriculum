@@ -1,0 +1,17 @@
+[
+    {
+        "fromAddress": "Me",
+        "toAddress": "Someone",
+        "amount": 6
+    },
+    {
+        "fromAddress": "Me",
+        "toAddress": "Someone",
+        "amount": 2
+    },
+    {
+        "fromAddress": "Me",
+        "toAddress": "You",
+        "amount": 2
+    }
+]
