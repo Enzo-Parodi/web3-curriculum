@@ -29,3 +29,51 @@ node add-transaction.js Me You 100
 node add-transaction.js You Me 100
 node add-block.js
 node validate-chain.js
+npm install crypto.js
+npm remove crypto.js
+npm install crypto-js
+node mine-block.js
+npm install -g eslint prettier
+node mine-block.js
+ls
+cd learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+node mine-block.js
+node add-transaction.js You Me 12
+node mine-block.js
+node add-transaction.js You Me 24
+node mine-block.js
+node init-blockchain.js
+node add-transaction.js You Me 12
+node add-transaction.js You Me 16
+node mine-block.js
+node add-transaction.js You Me 20
+node mine-block.js
+node add-transaction.js You Me 10
+node mine-block.js
+node validate-chain.js
+node init-blockchain.js
+node add-transaction.js You Me 15
+node add-transaction.js You Me 25
+node mine-block.js
+node add-transaction.js You Me 5
+node add-transaction.js You Me 10
+node mine-block.js
+node validate-chain.js
+node get-address-balance.js Me
+node get-address-balance.js You
+node init-blockchain.js
+node add-transaction.js Me You 40
+node get-address-balance.js Me
+node get-address-balance.js You
+node mine-block.js
+node get-address-balance.js Me
+node add-transaction.js Me You 40
+node get-address-balance.js Me
+node mine-block.js
+node get-address-balance.js Me
+node get-address-balance.js You
+node add-transaction.js Me You 3
+node add-transaction.js Me You 16
+node add-transaction.js You Me 6
+node mine-block.js
+node add-transaction.js Me I 5

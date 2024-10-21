@@ -19,10 +19,11 @@
     "isIntegrated": false,
     "description": "In this course, you will learn how to use the SHA-256 hashing algorithm make your blockchain more secure.",
     "isPublic": true,
-    "currentLesson": 6,
+    "currentLesson": 133,
     "runTestsOnWatch": true,
     "isResetEnabled": true,
-    "numberOfLessons": 133
+    "numberOfLessons": 133,
+    "completedDate": 1729523439287
   },
   {
     "id": 2,

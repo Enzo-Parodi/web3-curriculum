@@ -1,3 +1,1 @@
-[01;32mroot[00m [01;34m/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm[00m (ma
-in) $ node add-block.jstransaction.js You Me 100Me You 100in) $ cd ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithmin) $ [40Pnode add-transaction.js Me You 2[4@Someone 26in) $ node [14Pvalidate-chain.js
-Chain is valid
+[01;32mroot[00m [01;34m/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm[00m (main) $ [Knode mine-blockk.js[A[01;32mroot[00m [01;34m/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm[00m (main) $ node add-transaction.js You Me 6[1P[1P[1P6[1P[1P[1P[1@M[1@e  6[1@I 6 5

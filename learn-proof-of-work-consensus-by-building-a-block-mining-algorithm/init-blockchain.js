@@ -1,4 +1,4 @@
-import { writeBlockchain } from './blockchain-helpers.js';
+import { writeBlockchain, writeTransactions } from './blockchain-helpers.js';
 
 const genesisBlock = {
   hash: "0",
@@ -7,3 +7,4 @@ const genesisBlock = {
 
 const blockchain = [genesisBlock];
 writeBlockchain(blockchain);
+writeTransactions([])
