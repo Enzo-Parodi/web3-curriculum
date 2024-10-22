@@ -32,10 +32,11 @@
     "isIntegrated": false,
     "description": "In this course, you will learn how to generate and use keypairs so you can verify users and transactions.",
     "isPublic": true,
-    "currentLesson": 1,
+    "currentLesson": 113,
     "runTestsOnWatch": true,
     "isResetEnabled": true,
-    "numberOfLessons": 113
+    "numberOfLessons": 113,
+    "completedDate": 1729601827626
   },
   {
     "id": 3,

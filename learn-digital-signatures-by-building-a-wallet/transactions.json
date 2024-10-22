@@ -1,13 +1,7 @@
 [
   {
     "fromAddress": null,
-    "toAddress": "Me",
+    "toAddress": "041072649f99b1906190712b714c3f87604dec42654c18a3f86895f71edfa8587467c01c96866dc852db7b1eda6bd2bf26",
     "amount": 50
-  },
-  {
-    "hash": "187116b5a916e63287cdb275a2e6cab646fde335639f820a0e4531ad444ea7b8",
-    "fromAddress": "Me",
-    "toAddress": "I",
-    "amount": 5
   }
 ]

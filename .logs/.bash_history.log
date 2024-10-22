@@ -77,3 +77,35 @@ node add-transaction.js Me You 16
 node add-transaction.js You Me 6
 node mine-block.js
 node add-transaction.js Me I 5
+git push
+cd ../learn-digital-signatures-by-building-a-wallet/
+node get-address-balance.js Me
+node add-transaction.js Me You 35
+node mine-block.js
+node validate-chain.js
+npm install elliptic
+node generate-wallet.js
+node generate-wallet.js Me
+node generate-wallet.js You
+node generate-wallet.js Fred
+node generate-wallet.js Willma
+node generate-wallet.js Wilma
+node get-address.js Me
+node add-transaction.js Me Fred 10
+node add-transaction.js ea6a8d211268c286ab3a6d4295cc5b0c9c56b7889299054d Fred 1000
+node add-transaction.js ea6a8d211268c286ab3a6d4295cc5b0c9c56b7889299054d Fred 0
+node mine-block.js
+node init-blockchain.js
+node mine-block.js
+node add-transaction.js ea6a8d211268c286ab3a6d4295cc5b0c9c56b7889299054d You 40
+node mine-block.js
+node add-transaction.js ea6a8d211268c286ab3a6d4295cc5b0c9c56b7889299054d Wilma 25
+node add-transaction.js ea6a8d211268c286ab3a6d4295cc5b0c9c56b7889299054d Fred 3
+node add-transaction.js 60d5cdacb2a592a9661cd99829b3bd3ae5c9201f93a0cd11 Fred 3
+node mine-block.js
+node get-address-balance.js
+node get-address-balance.js Me
+node get-address-balance.js You
+node get-address-balance.js Fred
+node get-address-balance.js Wilma
+node validate-chain.js

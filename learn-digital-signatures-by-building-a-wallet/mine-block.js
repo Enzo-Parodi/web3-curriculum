@@ -1,5 +1,5 @@
 import sha256 from 'crypto-js/sha256.js';
-import { getBlockchain, writeBlockchain, getTransactions, writeTransactions } from './blockchain-helpers.js';
+import { getBlockchain, writeBlockchain, getTransactions, writeTransactions, getWalletAddressFromName } from './blockchain-helpers.js';
 
 const blockchain = getBlockchain();
 const previousBlock = blockchain[blockchain.length - 1];
@@ -20,10 +20,10 @@ const newBlock = {
   previousHash: previousBlock.hash,
   transactions
 }
-
+const rewardAddress = getWalletAddressFromName('Me')
 const rewardTransaction = {
   fromAddress: null,
-  toAddress: 'Me',
+  toAddress: rewardAddress,
   amount: 50
 }
 

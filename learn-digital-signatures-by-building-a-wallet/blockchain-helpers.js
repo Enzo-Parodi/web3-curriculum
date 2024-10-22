@@ -1,5 +1,8 @@
+import EC from 'elliptic'
 import sha256 from 'crypto-js/sha256.js';
-import { writeFileSync, readFileSync } from 'fs';
+import { writeFileSync, readFileSync, read } from 'fs';
+
+const ec = new EC.ec('p192')
 
 export function writeBlockchain(blockchain) {
   const blockchainString = JSON.stringify(blockchain, null, 2);
@@ -33,7 +36,7 @@ export function isValidChain() {
 
     // loop through transactions
     for (let j = 0; j < transactions.length; j++) {
-      const { hash, fromAddress, toAddress, amount } = transactions[j];
+      const { hash, fromAddress, toAddress, amount, signature } = transactions[j];
 
       // don't validate reward transactions
       if (fromAddress !== null) {
@@ -44,8 +47,14 @@ export function isValidChain() {
           return false;
         }
 
+        // validate signature
+        const publicKeyPair = ec.keyFromPublic(fromAddress, 'hex')
+        const verifiedSignature = publicKeyPair.verify(hash, signature)
+
+        if (!verifiedSignature) { return false }
       }
     }
+
   }
 
   return true;
@@ -67,7 +76,7 @@ export function getAddressBalance(address) {
   let balance = 0;
 
   // loop through blocks
-  for (let i = 1; i < blockchain.length; i++) { 
+  for (let i = 1; i < blockchain.length; i++) {
     const { transactions } = blockchain[i];
 
     // loop through transactions
@@ -85,4 +94,11 @@ export function getAddressBalance(address) {
   }
 
   return balance;
+}
+
+export function getWalletAddressFromName(name) {
+  const walletsFile = readFileSync('./wallets.json');
+  const wallets = JSON.parse(walletsFile);
+
+  return wallets[name]
 }
