@@ -1,0 +1,25 @@
+[
+  {
+    "hash": 0,
+    "previousHash": null
+  },
+  {
+    "hash": "00553c48b119aa0aebe0cae110f26e0dfdf0909079ab4fd9b7e8e5b300e8ca45",
+    "previousHash": 0,
+    "nonce": 108,
+    "transactions": [
+      {
+        "buyerAddress": null,
+        "sellerAddress": "048406119c2819237465064dbdeb5fed71bed5fdf00324e9b37e9b7c16a9178f155a1102ec6e77d46729dc78e139fed759",
+        "price": 40
+      },
+      {
+        "buyerAddress": "048406119c2819237465064dbdeb5fed71bed5fdf00324e9b37e9b7c16a9178f155a1102ec6e77d46729dc78e139fed759",
+        "sellerAddress": null,
+        "price": 10,
+        "itemBought": "icon",
+        "signature": "303402187da52cab91a280060431aa4ed6407dc1968159e93cc0ea8b02186770660a6a1caef990cb75b48a089d621c0f993f31f69cf6"
+      }
+    ]
+  }
+]

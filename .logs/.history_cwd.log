@@ -160,3 +160,193 @@
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 76 node validate-chain.js
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 76 node validate-chain.js
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 76 node validate-chain.js
+/workspace/web3-curriculum$ 77 cd ..
+/workspace/web3-curriculum$ 78 ls
+/workspace/web3-curriculum$ 78 ls
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 79 cd build-a-video-game-marketplace-blockchain/
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 80 node init-blockchain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 80 node init-blockchain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 81 node generate-wallet.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 82 node generate-wallet.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 82 node generate-wallet.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 83 node generate-wallet.js user_xyz124
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 84 node generate-wallet.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 85 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 85 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 85 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 85 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 85 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 86 node buy-item 048b439de98215d534bd1498414754a39c646592abcafea59f04791a1dc20ae20ecbcdeafcb9049a0613c048bd7135b2ab
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 86 node buy-item 048b439de98215d534bd1498414754a39c646592abcafea59f04791a1dc20ae20ecbcdeafcb9049a0613c048bd7135b2ab
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 86 node buy-item 048b439de98215d534bd1498414754a39c646592abcafea59f04791a1dc20ae20ecbcdeafcb9049a0613c048bd7135b2ab
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 86 node buy-item 048b439de98215d534bd1498414754a39c646592abcafea59f04791a1dc20ae20ecbcdeafcb9049a0613c048bd7135b2ab
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 87 node buy-item 04e67ecf0a9ee84dd91a63c67be4dea9230c02267713d306cf5cf88f8da5c229e370506764b682be6940f0cd9782c9cd81
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 88 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 89 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 90 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8ccnode buy-item e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 90 node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8ccnode buy-item e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 91 node buy-item e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 92 node get-address-info.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 93 node get-address-info.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 94 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 95 node get-address-info.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 95 node get-address-info.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 96 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 96 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 97 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 97 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 97 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 98 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 98 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 99 node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 100 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 100 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 101 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 102 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 102 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 102 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 103 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 104 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 105 node generate-wallet.js mike
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 106 node generate-wallet.js enzo
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 107 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 108 node get-address-info.js mike
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 109 node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 110 node buy-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 111 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 112 node buy-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 113 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 114 node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 115 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 116 node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 117 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 117 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 117 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 118 node sell-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 118 node sell-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 119 node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 120 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 121 node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 121 node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 122 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 123 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 124 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 125 node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 126 node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 127 node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 128 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 129 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 129 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 129 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 129 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 129 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 130 node generate-wallet.js stephen
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 131 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 132 node init-blockchain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 133 node generate-wallet.js user_xyz123
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 134 node generate-wallet.js enzo
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 135 node generate-wallet.js mike
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 136 node generate-wallet.js frank
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 137 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 138 node validate-chain.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 139 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 140 node buy-item.js a873172ea861fc2953dc916c1e8f006081389a9dcee2e9a1 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 141 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 142 node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 143 node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 144 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 145 node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 146 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 147 node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 148 node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 149 node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 150 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 151 node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 152 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 152 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 153 node sell-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd skin
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 154 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 155 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 156 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 157 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 158 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 159 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 159 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 160 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 161 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 162 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 163 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 164 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 165 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 165 node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 166 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 167 node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 168 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 169 node mine-block.js
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 170 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 170 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 171 node sell-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 172 node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain$ 173 node mine-block.js

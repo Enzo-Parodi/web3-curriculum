@@ -1,1 +1,40 @@
-[01;32mroot[00m [01;34m/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet[00m (main) $ 🟠 WARN:  2024-10-22 08:57:07 Selected project does not exist:  { event: 'select-project', data: {} }
+[01;32mroot[00m [01;34m/workspace/web3-curriculum/build-a-video-game-marketplace-blockchain[00m (main) $ 🟠 WARN:  2024-11-02 07:41:24 Selected project does not exist:  { event: 'select-project', data: {} }
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:26 Error: Timeout
+    at Timeout._onTimeout (file:///workspace/web3-curriculum/node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/parser.js:30:14)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+🔴 ERROR:  2024-11-02 07:41:34 Test Error: 
+🔴 ERROR:  2024-11-02 07:41:34 [Error: ENOENT: no such file or directory, open '/workspace/web3-curriculum/curriculum/locales/english/undefined.md'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspace/web3-curriculum/curriculum/locales/english/undefined.md'
+}
+🔴 ERROR:  2024-11-02 07:41:36 Test Error: 
+🔴 ERROR:  2024-11-02 07:41:36 [Error: ENOENT: no such file or directory, open '/workspace/web3-curriculum/curriculum/locales/english/undefined.md'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspace/web3-curriculum/curriculum/locales/english/undefined.md'
+}
+🔵 INFO:  2024-11-02 07:41:44 Watching for file changes on /workspace/web3-curriculum

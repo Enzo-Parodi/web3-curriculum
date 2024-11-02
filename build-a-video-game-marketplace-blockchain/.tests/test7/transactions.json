@@ -1,0 +1,9 @@
+[
+  {
+    "buyerAddress": "04bce351dcfee12da57058923dec5a549b5df54ce9697311265832962a27202ea2754433cacbb69b1a9ad788952f37f467",
+    "sellerAddress": null,
+    "price": 10,
+    "itemBought": "icon",
+    "signature": "303502186334934f332eb729eeab85e551a477b57616a4dd6a7f2d37021900cfb34e812c9ce20859406bd5cef801913d6faa3ff459a961"
+  }
+]

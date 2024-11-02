@@ -46,7 +46,8 @@
     "description": "In this integrated project, you will build a blockchain where you can buy and sell items for a video game.",
     "isPublic": true,
     "currentLesson": 1,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1730547683116
   },
   {
     "id": 4,

@@ -109,3 +109,100 @@ node get-address-balance.js You
 node get-address-balance.js Fred
 node get-address-balance.js Wilma
 node validate-chain.js
+cd ..
+ls
+cd build-a-video-game-marketplace-blockchain/
+node init-blockchain.js
+node generate-wallet.js
+node generate-wallet.js user_xyz123
+node generate-wallet.js user_xyz124
+node generate-wallet.js user_xyz123
+node mine-block.js
+node buy-item 048b439de98215d534bd1498414754a39c646592abcafea59f04791a1dc20ae20ecbcdeafcb9049a0613c048bd7135b2ab
+node buy-item 04e67ecf0a9ee84dd91a63c67be4dea9230c02267713d306cf5cf88f8da5c229e370506764b682be6940f0cd9782c9cd81
+node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc
+node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8cc icon
+node buy-item 047c835a79f175188f0a481d0fa21244d8f5e6b3f5fcc48098070e415d2217e100f30c7ed7063ad2d78955ef894601e8ccnode buy-item e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node buy-item e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node get-address-info.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+node get-address-info.js user_xyz123
+node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+node get-address-info.js user_xyz123
+node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b
+node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node buy-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b skin
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b spray
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node generate-wallet.js mike
+node generate-wallet.js enzo
+node mine-block.js
+node get-address-info.js mike
+node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+node buy-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+node mine-block.js
+node buy-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+node mine-block.js
+node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+node mine-block.js
+node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+node mine-block.js
+node sell-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+node mine-block.js
+node sell-item.js 9ee7f52505bfaafbbfef0af78c551aadab41b34d4600b7c3 icon
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node mine-block.js
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+node sell-item.js e18e997f29b9e5c5c9ab45fe7ec7504959de35c5368eca2b icon
+node buy-item.js 9c721a18e41e9ca8824478503ec32011d1cbce2b4d413334 icon
+node mine-block.js
+node validate-chain.js
+node generate-wallet.js stephen
+node validate-chain.js
+node init-blockchain.js 
+node generate-wallet.js user_xyz123
+node generate-wallet.js enzo
+node generate-wallet.js mike
+node generate-wallet.js frank
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node validate-chain.js
+node mine-block.js 
+node buy-item.js a873172ea861fc2953dc916c1e8f006081389a9dcee2e9a1 icon
+node mine-block.js 
+node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node mine-block.js
+node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node mine-block.js 
+node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node sell-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node mine-block.js 
+node buy-item.js 807b9aac084dcdf610b6afa0478727696df09804f00b39dd icon
+node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd skin
+node sell-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd skin
+node mine-block.js 
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 spray
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node mine-block.js 
+node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node mine-block.js 
+node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node sell-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 icon
+node buy-item.js 073b0c868f51b183375d694860f05d0c613bc5dc9a93e012 spray
+node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+node mine-block.js 
+node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+node sell-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+node buy-item.js 335d0b5c81b3262479673351d65538a7fd64b47333774cfd spray
+node mine-block.js 
